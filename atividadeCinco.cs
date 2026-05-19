@@ -13,3 +13,6 @@ while (contador <= 20)
     Console.WriteLine(contador);
     contador++;
 }*/
+
+
+/* Por meio do For, a programação ficou mais organizada pois requer menos linhas de programação além de ser mais simples na hora de escrever*/
