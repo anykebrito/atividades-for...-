@@ -1,7 +1,7 @@
-﻿string[] nome = new string[3];
+﻿/*string[] nome = new string[3];
 double[,] nota = new double[3, 3];
 
-for (int linha = 0; linha < 3; linha++)
+for (int coluna = 0; coluna < 3; coluna++)
 {
     Console.Write($"Digite o {linha + 1}º nome: ");
     nome[linha] = Console.ReadLine()!;
@@ -24,4 +24,4 @@ for (int linha = 0; linha < 3; linha++)
             Console.WriteLine($"O aluno {nome[linha]} tem média de {media}");
         }
     }
-}
+}*/
